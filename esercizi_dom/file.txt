@@ -1,0 +1,4 @@
+replicare la rubrica vista a lezione con le funzionalita'
+ mostra e nascondi lista contatti, 
+aggiungi contatto e  rimuovi contatto
+pushate tutto su github
